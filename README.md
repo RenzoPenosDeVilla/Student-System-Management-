@@ -1,6 +1,6 @@
 # Student Information System
 
-1ST YEAR DSA PROJECT
+1ST YEAR DSA PYTHON PROJECT
 
 A **Student Information System (SIS)** is a web-based application designed to manage and organize student information efficiently.
 
