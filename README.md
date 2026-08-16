@@ -1,19 +1,19 @@
-# Student System Management 
+# Student Management System
 
-1ST YEAR DSA PYTHON PROJECT
-
-A **Student Information System (SIS)** is a web-based application designed to manage and organize student information efficiently.
+A **Student Management System (SMS)** is a web-based application designed to manage student records and information efficiently. It helps administrators and teachers organize student data, attendance, grades, and other academic records in one system.
 
 ## 👥 Group Members
 
 ### 👑 Leader
-- **[Leader's Name]** – Project Leader
+- **[PRECIOUS EDELYN FLORES]** – Project Leader
 
 ### Members
-- **[Member 1 Name]**
-- **[Member 2 Name]**
-- **[Member 3 Name]**
-- **[Member 4 Name]**
+- **[RENZO P. DE VILLA]**
+- **[ZHYRYN OLIVEROS]**
+- **[RHYAN MAAC]**
+- **[HAZEL MANALO]**
+- **[JEYMARK BELTRAN]**
+- **[Felix Lawrence Ramos]**
 
 ## 📌 Features
 
@@ -21,17 +21,28 @@ A **Student Information System (SIS)** is a web-based application designed to ma
 - Student profile management
 - Add, edit, and delete student records
 - View student information
-- Student attendance tracking
+- Attendance management
 - Grade management
-- Search and filter students
+- Search and filter student records
 
 ## 🛠️ Technologies Used
 
-- HTML
-- CSS
-- JavaScript
 - Python
-- Database
+- CSS
+
+## 🎯 Purpose
+
+The purpose of the **Student Management System** is to provide an easy and organized way to manage student records. It reduces manual paperwork and makes student information easier to access and update.
+
+## 👨‍💻 Project Team
+
+**Student Management System**
+
+Created for educational purposes.
+## 🛠️ Technologies Used
+
+- Tkinter
+- 
 
 ## 📂 Project Structure
 
