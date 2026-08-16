@@ -1,4 +1,4 @@
-# Student Information System
+# Student System Management 
 
 1ST YEAR DSA PYTHON PROJECT
 
