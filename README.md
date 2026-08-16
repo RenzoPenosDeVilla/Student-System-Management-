@@ -42,20 +42,5 @@ Created for educational purposes.
 ## 🛠️ Technologies Used
 
 - Tkinter
-- 
 
-## 📂 Project Structure
-
-```text
-Student-Information-System/
-├── index.html
-├── students.html
-├── attendance.html
-├── grades.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── backend/
-│   └── app.py
-└── README.md
+♥️Thank You♥️
