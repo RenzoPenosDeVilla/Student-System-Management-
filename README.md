@@ -5,15 +5,15 @@ A **Student Management System (SMS)** is a web-based application designed to man
 ## 👥 Group Members
 
 ### 👑 Leader
-- **[PRECIOUS EDELYN FLORES]** – Project Leader
+- **[PRECIOUS EDELYN FLORES]** – Leader/Project Manager 
 
 ### Members
-- **[RENZO P. DE VILLA]**
-- **[ZHYRYN OLIVEROS]**
-- **[RHYAN MAAC]**
-- **[HAZEL MANALO]**
-- **[JEYMARK BELTRAN]**
-- **[Felix Lawrence Ramos]**
+- **[RENZO P. DE VILLA]** - Py tester
+- **[ZHYRYN OLIVEROS]** - PowerPoint Editor/Py tester 
+- **[RHYAN MAAC]** - Researcher/Py tester
+- **[HAZEL MANALO]** - Py Operator 
+- **[JEYMARK BELTRAN]** - Py tester
+- **[Felix Lawrence Ramos]** - UI/IX Designer
 
 ## 📌 Features
 
